@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Shial</h1>
-<h3 align="center">A passionate junior developer based in Calgary, AB</h3>
+<h3 align="center">A passionate full-stack developer based in Calgary, AB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulshial&label=Profile%20views&color=0e75b6&style=flat" alt="rahulshial" /> </p>
 
